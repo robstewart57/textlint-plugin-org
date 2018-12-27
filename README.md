@@ -33,7 +33,9 @@ plugin in implemented):
 
 ## Contributing
 
-Pull requests for [completing]() the org-mode parser are welcome.
+Pull requests for
+[completing](https://github.com/robstewart57/textlint-plugin-org/blob/master/src/OrgProcessor.js#L13)
+the org-mode parser are welcome.
 
 For bugs and feature requests, [please create an
 issue](https://github.com/robstewart57/textlint-plugin-org/issues).
